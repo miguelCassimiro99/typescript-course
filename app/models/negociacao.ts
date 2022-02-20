@@ -1,16 +1,14 @@
 export class Negociacao {
-  private _data: Date;
-  private _valor: number;
-  private _quantidade: number;
 
-  constructor(data: Date, valor: number, quantidade: number) {
-    this._data = data;
-    this._valor = valor;
-    this._quantidade = quantidade;
-  }
+  constructor(
+      private _data: Date,
+      private _valor: number,
+      private _quantidade: number
+  ) {}
 
   get data(): Date {
-    return this._data;
+    const date = new Date(this._data.getTime());
+    return date;
   }
 
   get valor(): number {
@@ -25,3 +23,18 @@ export class Negociacao {
     return this._quantidade * this._valor;
   }
 }
+
+/* Modelagem simplificada com atributos publicos e readonly
+* os atributos são públicos mas não é possível alterá-los
+*
+ constructor(
+      public readonly data: Date,
+      public readonly valor: number,
+      public readonly quantidade: number
+  ) {}
+
+  get volume(): number {
+    return this.quantidade * this.valor;
+  }
+*/
+
