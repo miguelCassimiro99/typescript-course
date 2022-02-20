@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95683364-2457-4766-a023-b18ac7a715bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/negociacao.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/negociacao.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/models/negociacao.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/models/negociacao.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="25NPWzzsUlm26rsEPRBm0W3SeTf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95683364-2457-4766-a023-b18ac7a715bd" name="Default Changelist" comment="" />
+      <created>1645364606798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645364606798</updated>
+      <workItem from="1645364607930" duration="5593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1645366060525">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1645366060525" />
+    <state x="80" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1645367728370">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="80" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1645367728370" />
+  </component>
+</project>
