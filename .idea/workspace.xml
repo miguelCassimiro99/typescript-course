@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="95683364-2457-4766-a023-b18ac7a715bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/negociacao.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/negociacao.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/negociacoes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/negociacoes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/js/models/negociacao.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/models/negociacao.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/js/models/negociacoes.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/models/negociacoes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/negociacao-controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/negociacao-controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/controllers/negociacao-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/controllers/negociacao-controller.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="25NPWzzsUlm26rsEPRBm0W3SeTf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -46,20 +56,22 @@
       <option name="presentableId" value="Default" />
       <updated>1645364606798</updated>
       <workItem from="1645364607930" duration="11090000" />
+      <workItem from="1645446642860" duration="5900000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="0" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1645377231250">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="0" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1645377231250" />
-    <state x="80" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1645367728370">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="80" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1645367728370" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
