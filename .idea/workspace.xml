@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="95683364-2457-4766-a023-b18ac7a715bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/negociacao-controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/negociacao-controller.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/negociacoes-view.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/negociacoes-view.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/js/controllers/negociacao-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/controllers/negociacao-controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/js/views/negociacoes-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/views/negociacoes-view.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1645364606798</updated>
       <workItem from="1645364607930" duration="11090000" />
-      <workItem from="1645446642860" duration="13609000" />
+      <workItem from="1645446642860" duration="15319000" />
+      <workItem from="1645535050865" duration="398000" />
     </task>
     <servers />
   </component>
@@ -72,5 +70,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
