@@ -20,7 +20,11 @@ export class NegociacaoController {
   }
 
   public adiciona(): void {
-    const negociacao = this.criaNegociacao();
+    const negociacao = Negociacao.criaDe(
+        this.inputData.value,
+        this.inputValor.value,
+        this.inputQuantidade.value
+    )
 
     if (this.ehDiaUtil(negociacao.data)) {
       this.mensagemView

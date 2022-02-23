@@ -4,6 +4,14 @@ export class Negociacao {
         this._valor = _valor;
         this._quantidade = _quantidade;
     }
+    // métodos estáticos precisam ser public
+    static criaDe(dataString, valorString, quantidadeString) {
+        const exp = /-/g;
+        const date = new Date(dataString.replace(exp, ','));
+        const value = parseFloat(valorString);
+        const quantity = parseInt(quantidadeString);
+        return new Negociacao(date, value, quantity);
+    }
     get data() {
         const date = new Date(this._data.getTime());
         return date;
