@@ -4,9 +4,9 @@
     <list default="true" id="95683364-2457-4766-a023-b18ac7a715bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/negociacao-controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/negociacao-controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/negociacao.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/negociacao.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/view.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/view.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/js/controllers/negociacao-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/controllers/negociacao-controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/js/models/negociacao.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/models/negociacao.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/views/view.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/views/view.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,7 @@
       <workItem from="1645364607930" duration="11090000" />
       <workItem from="1645446642860" duration="15319000" />
       <workItem from="1645535050865" duration="8278000" />
+      <workItem from="1645626564939" duration="2075000" />
     </task>
     <servers />
   </component>
